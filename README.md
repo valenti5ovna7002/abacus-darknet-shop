@@ -75,4 +75,6 @@ Always prioritize security when accessing darknet platforms. Use verified **Abac
 <a href="http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion"><img src="/mockups/heap.webp" alt="Abacus Login" style="max-width: 100%;"></a>
 <a href="http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion"><img src="/mockups/properties.webp" alt="Abacus Register" style="max-width: 100%;"></a>
 
-Update:  06/11/2025 11-16
+
+
+Update:  06/13/2025 03-39
