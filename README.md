@@ -89,4 +89,6 @@ Always prioritize security when accessing darknet platforms. Use verified **Abac
 
 
 
-Update:  06/26/2025 07-38-23 Fixed broken url, now working
+
+
+Update: url is now working and available
